@@ -1,0 +1,9 @@
+{
+    "allow": [
+        "finder",
+        "launchpad",
+        "safari",
+        "message",
+        "outlook"
+    ]
+}
